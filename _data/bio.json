@@ -1,113 +1,105 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Matthew Stoney",
+    "label": "Software Engineer",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
+    "email": "mstoney.aws@gmail.com",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "website": "https://mjstoney.github.io",
+    "summary": "I am a Software Engineer currently working as a contractor on Experian's Global ESS Team.",
+    "location": { "address": "", "postalCode": "95123", "city": "San Jose", "countryCode": "USA", "region": "California" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mjstoney", "url": "https://github.com/mjstoney" },
+      { "network": "linkedin", "username": "mjstoney", "url": "https://www.linkedin.com/in/mjstoney/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Blockchain" },
+    { "name": "3D Graphics Programming" },
+    { "name": "Automotive Tech" },
+    { "name": "Game Design" },
+    { "name": "Guitar" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "Bash" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "California State University, Monterey Bay",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2021-01-03",
+      "endDate": "2022-12-15",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Experian",
+      "position": "Delivery Software Engineer",
+      "website": "https://www.experian.com",
+      "startDate": "2023-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Junior Software/Delivery Engineer Contractor",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Develop, maintain, and update robust Python tooling to facilitate global platform migrations.",
+        "Lead the provisioning and configuration of over 50 client environments on AWS Kubernetes.",
+        "Author and/or revise Javascript code for testing REST APIs with Postman.",
+        "Collaborate closely with a global, cross-functional team, ensuring effective communication and problem-solving in a complex migration project."
+        
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Uber Technologies",
+      "position": "Software Engineering Intern",
+      "website": "https://www.uber.com",
+      "startDate": "2022-06-01",
+      "endDate": "2022-09/30",
+      "summary": "Summer internship on the Platform Engineering team.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Architect and construct robust full-stack applications using Go, JavaScript, React, gRPC, and GraphQL to locate and visualize any faults in the network topology.",
+        "Achieve net cost savings of $10,000 to $100,000 per network outage and improved uptime.",
+        "Merge 100+ Git commits into the Web Monorepo within 3 months.",
+        "•	Showcased project in a 30-minute presentation to an audience of 20+ team members, stakeholders, managers, and developers."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
+      "organization": "Rakulee, Inc.",
+      "website": "http://www.rakulee.org/",
       "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "startDate": "2021-12-10",
+      "endDate": "2022-04-15",
+      "summary": "Web Developer",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Full-scale frontend renovation of client webpage.",
+        "Design website layout with Adobe XD and Figma."
+        "Code layout and features in HTML/CSS/Javascript",
+        "Create and edit graphics and logos using Adobe Photoshop and Illustrator." 
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2021-2022",
+      "awarder": "CSU Monterey Bay",
+      "summary": "Honors given to students for exemplary academic achievements."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Good Dad Award",
+      "date": "2023",
+      "awarder": "Bea Stoney",
+      "summary": "My kid said to me, 'Dada, you are a good dada.' <3"
     }
   ],
   "references": [
